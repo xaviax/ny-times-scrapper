@@ -1,3 +1,4 @@
+rpa
 attrs==25.4.0
 beautifulsoup4==4.14.2
 cached-property==2.0.1
